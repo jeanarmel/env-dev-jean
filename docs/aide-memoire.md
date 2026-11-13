@@ -58,3 +58,10 @@
 | Commande | Ce qu'elle fait                              | Exemple                      |
 | -------- | -------------------------------------------- | ---------------------------- |
 | `apt`    | Install nodejs en mode administrateur (root) | `sudo apt install -y nodejs` |
+
+## Branches
+
+| Commande     | Ce qu'elle fait                                  | Exemple                       |
+| ------------ | ------------------------------------------------ | ----------------------------- |
+| `git branch` | Liste les branches de mon depot                  | `git branch`                  |
+| `git switch` | Cree une nouvelle branch et se positionne dessus | `git switch -c ajout-section` |
