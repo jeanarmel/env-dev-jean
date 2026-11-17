@@ -1,4 +1,4 @@
-# env-dev-jean (B1 DEV, IFRAN)
+# env-dev-jean - Mon environnement de développement (B1 DEV, IFRAN)
 
 Environnement de développement de Jean Louis Vangah – B1 DEV, IFRAN.
 
