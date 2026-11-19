@@ -59,6 +59,7 @@ Résultat attendu : une version pour Ubuntu, Git, Node.js, npm et tree.
 | `README.md`            | Cette documentation                                                     |
 | `JOURNAL.md`           | Le journal de mes choix                                                 |
 | `docs/aide-memoire.md` | Une liste de commandes Ubuntu pour vous aider dans vos workflows        |
+| `docs/reseau.md`       | ...                                                                     |
 | `scripts/installer.sh` | Un fichier de script pour l'installation de tous les outils             |
 | `scripts/verifier.sh`  | Un fichier de script pour verifier l'installation des differents outils |
 
